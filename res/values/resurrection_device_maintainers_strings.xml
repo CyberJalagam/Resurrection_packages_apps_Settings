@@ -171,6 +171,10 @@
   <string name="device_oneplus_codename" translatable="false">Bacon</string>
   <string name="device_oneplus_maintainer" translatable="false">  </string>
 
+  <string name="device_CPH1859" translatable="false">Realme 1</string>
+  <string name="device_CPH1859_codename" translatable="false">CPH1859</string>
+  <string name="device_CPH1859_maintainer" translatable="false">JAISHNAV PRASAD</string>
+
   <string name="device_RMX1851" translatable="false">RealMe 3 Pro</string>
   <string name="device_RMX1851_codename" translatable="false">RMX1851</string>
   <string name="device_RMX1851_maintainer" translatable="false"></string>

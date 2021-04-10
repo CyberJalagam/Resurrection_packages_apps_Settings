@@ -1451,6 +1451,12 @@
     <PreferenceCategory
         android:id="@+id/device_category_realme"
         android:title="@string/device_category_realme_title">
+        <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_CPH1859"
+            android:title="@string/device_CPH1859"
+            app:codename="@string/device_CPH1859_codename"
+            app:maintainer="@string/device_CPH1859_maintainer"
+            app:type="phone" />
 	<com.android.settings.rr.Preferences.DevicePreference
             android:id="@+id/device_RMX1901"
             android:title="@string/device_RMX1901"
