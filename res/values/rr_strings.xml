@@ -268,6 +268,7 @@
     <string name="ime_switcher_notify">Selector notification</string>
     <string name="ime_switcher_notify_summary">Display input method selector notification</string>
     <string name="devs">Dev Tag</string>
+    <string name="github_cyberjalagam">https://github.com/CyberJalagam</string>
     <string name="github_westcrip">https://github.com/westcripp</string>
     <string name="github_varund7726">https://github.com/varund7726</string>
     <string name="github_akhilnarang">https://github.com/akhilnarang</string>
@@ -311,6 +312,7 @@
     <string name="unit_milliseconds">milliseconds</string>
     <string name="unit_pixels">dp</string>
 
+    <string name="cyberjalagam_summary">● ROM Maintainer \n● Lead developer \n● UI/UX Dev \n● ROM Modder</string>
     <string name="altankrk_summary">● CO-Founder \n● Head developer \n● UX designer \n● Maintainer</string>
     <string name="varun_summary">● Head developer \n● UX designer \n● Maintainer</string>
     <string name="andres_summary">● Developer \n● Maintainer</string>
